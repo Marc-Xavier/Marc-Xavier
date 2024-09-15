@@ -1,3 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xa-v&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=dark)](https://github.com/Xa-v/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xa-v&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=dark)](https://github.com/Xa-v/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xa-v&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=dark)](https://github.com/Xa-v/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xa-v&show_icons=true&count_private=truee&theme=dark)](https://github.com/Xa-v/github-readme-stats)
+
