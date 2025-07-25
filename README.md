@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="60" height="60"/>
   </a>
