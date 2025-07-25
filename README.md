@@ -7,7 +7,7 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa-v&layout=pie&show_icons=true&count_private=true&theme=dark" style="width:1100px !important;max-width: 1100px !important;" /> -->
 <div style="text-align: center !important;">
-<a href="https://https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
