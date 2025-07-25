@@ -19,7 +19,7 @@
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
   </a>
-   <a href="https://https://aws.amazon.com/" target="_blank" rel="noreferrer">
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
   </a>
     <a href="https://www.prisma.io//" target="_blank" rel="noreferrer">
