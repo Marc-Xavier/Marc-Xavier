@@ -2,14 +2,16 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="60" height="60"/>
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+<!-- <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="60" height="60"/>
-  </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="60" height="60"/>
-  </a>
+  </a> -->
+  
+  
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="60" height="60"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="60" height="60"/>
   </a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="60" height="60"/>
