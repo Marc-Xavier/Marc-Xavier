@@ -29,9 +29,9 @@
   </a>
  -->
 
- <img src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api/top-langs/?username=Marc-Xavier&cache_seconds=30&layout=compact&show_icons=true&count_private=true&theme=dark" style="max-width: 1100px !important;" /> 
+ <!-- <img src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api/top-langs/?username=Marc-Xavier&cache_seconds=30&layout=compact&show_icons=true&count_private=true&theme=dark" style="max-width: 1100px !important;" />  -->
 
- <!-- <img src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api/top-langs/?username=Marc-Xavier&cache_seconds=30&layout=compact&show_icons=true&count_private=true&theme=dark" style="width:1100px !important;max-width: 1100px !important;" />  -->
+<img src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api/top-langs/?username=Marc-Xavier&cache_seconds=30&layout=compact&show_icons=true&count_private=true&theme=dark" style="width:2100px !important;max-width: 2100px !important;" />  
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Xavier&layout=compact&show_icons=true&count_private=true&theme=dark" style="width:1100px !important;max-width: 1100px !important;" /> -->
 
