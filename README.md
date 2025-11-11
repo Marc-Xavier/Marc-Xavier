@@ -37,11 +37,11 @@
   <tr>
     <!-- Left: Top Languages -->
     <td>
-<img src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api/top-langs/?username=Marc-Xavier&cache_seconds=30&layout=compact&show_icons=true&count_private=true&theme=dark" style="width:700px !important;max-width: 700px !important;"  /> 
+<img src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api/top-langs/?username=Marc-Xavier&cache_seconds=30&layout=compact&show_icons=true&count_private=true&theme=dark&langs_count=20&stats_format=bytes&disable_animations=true&hide=javascript,css" style="width:700px !important;max-width: 700px !important;"  /> 
     </td>
    <td>
 <img 
-  src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api?username=Marc-Xavier&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true&count_private=true&show=prs_merged_percentage&number_format=long" 
+  src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api?username=Marc-Xavier&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true&count_private=true&show=prs_merged_percentage&number_format=long&disable_animations=true" 
   style="width:1060px !important; max-width:1060px !important;" 
 />
     </td>
