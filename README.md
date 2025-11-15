@@ -41,7 +41,7 @@
     </td>
    <td>
 <img 
-  src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api?username=Marc-Xavier&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true&count_private=true&show=prs_merged_percentage&number_format=long&disable_animations=true" 
+  src="https://tyemkr6ukjsfdgsehyrdytjtf.vercel.app/api?username=Marc-Xavier&cache_seconds=30&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true&count_private=true&show=prs_merged_percentage&number_format=long&disable_animations=true" 
   style="width:1060px !important; max-width:1060px !important;" 
 />
     </td>
